@@ -1,0 +1,16 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "Criando um servidor json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "author": "Pedro",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "nodemon": "^2.0.20"
+  }
+}

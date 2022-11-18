@@ -1,0 +1,47 @@
+{
+  "Aluno": [
+    {
+      "id": 1,
+      "nome": "Carlos Macedo"
+    },
+    {
+      "id": 2,
+      "nome": "Joel Lira"
+    },
+    {
+      "id": 3,
+      "nome": "Marcos Meneses"
+    }
+  ],
+  "trabalhos": [
+    {
+      "id": 1,
+      "nome": "Projeto individual"
+    },
+    {
+      "id": 2,
+      "nome": "Projeto em Grupo"
+    },
+    {
+      "id": 3,
+      "nome": "Projeto Final"
+    }
+  ],
+  "modulos": [
+    {
+      "id": 1,
+      "nome": "Modulo 1,",
+      "tema": "Introdução ao desenvolvimento Front-End"
+    },
+    {
+      "id": 2,
+      "nome": "Modulo 2,",
+      "tema": "Orientação a objetos"
+    },
+    {
+      "id": 1,
+      "nome": "Modulo 1,",
+      "tema": "Frameworks, Bibliotecas, e Tecnologia"
+    }
+  ]
+}
